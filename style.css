@@ -17,7 +17,10 @@
 
 }
 #bulb{
-margin-left: 725px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
 
 }
 .headings{
