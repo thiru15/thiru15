@@ -17,17 +17,6 @@ html {
    
 }
 
-.btn-custom:hover
-{
-
-span{
-    position:relative;
-    right:15px;
-  }
-}
-@keyframes hi {0%   { transform: translateX(0); }
-100% { transform: translateX(70px); }
-}
 
 .row{
 	padding-top:1.25rem;
