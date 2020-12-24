@@ -1,6 +1,10 @@
 html {
   scroll-behavior: smooth;
 }
+.row{
+	padding-top:1.25rem;
+
+}
 .display-4{
 	text-align:  center;
 }
