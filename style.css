@@ -1,21 +1,6 @@
 html {
   scroll-behavior: smooth;
 }
-.btn-custom:hover
-{
-  color:white ;
-  background:linear-gradient(to bottom, #aaffa9, #11ffbd);
-  border-color:transparent;
-  .icon{
-    animation-name: hi;
-    animation-duration: 1s;
-    
-  animation-fill-mode: forwards;
-
-    
-  }
-   
-}
 
 
 .row{
