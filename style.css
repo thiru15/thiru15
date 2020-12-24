@@ -1,6 +1,34 @@
 html {
   scroll-behavior: smooth;
 }
+.btn-custom:hover
+{
+  color:white ;
+  background:linear-gradient(to bottom, #aaffa9, #11ffbd);
+  border-color:transparent;
+  .icon{
+    animation-name: hi;
+    animation-duration: 1s;
+    
+  animation-fill-mode: forwards;
+
+    
+  }
+   
+}
+
+.btn-custom:hover
+{
+
+span{
+    position:relative;
+    right:15px;
+  }
+}
+@keyframes hi {0%   { transform: translateX(0); }
+100% { transform: translateX(70px); }
+}
+
 .row{
 	padding-top:1.25rem;
 
